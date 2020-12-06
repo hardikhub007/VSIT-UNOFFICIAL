@@ -18,7 +18,7 @@ h1 {
 @keyframes vips {
   from {
       margin: auto;
-      top: 10px;
+      top: 100px;
   }
   to {
       margin: auto;
