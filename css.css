@@ -18,7 +18,7 @@ h1 {
 @keyframes vips {
   from {
       margin: auto;
-      top: 0px;
+      top: 10px;
   }
   to {
       margin: auto;
@@ -79,7 +79,7 @@ a:link {
   animation-fill-mode: both;
   position: relative;
   animation-name: link;
-  animation-duration: 1s;
+  animation-duration: 1.5s;
   color: blue;
   text-decoration: none;
 }
