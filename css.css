@@ -18,11 +18,11 @@ h1 {
 @keyframes vips {
   from {
       margin: auto;
-      top: 40px;
+      top: 10px;
   }
   to {
       margin: auto;
-      top: 5px;
+      top: 15px;
   }
 }
 
