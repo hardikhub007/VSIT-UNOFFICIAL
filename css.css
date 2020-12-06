@@ -184,7 +184,7 @@ ul>li {
   float: left;
   position: fixed;
   display: block;
-  color: #fa0750;
+  color: green;
   text-align: center;
   padding: 16px;
   text-decoration: none;
@@ -196,9 +196,7 @@ ul>li {
 
 .mission {
   color: #f003fc;
-  padding-left: 40px;
-  font-size: 20px;
-}
+  
 
 .cntr {
   padding-left: 40px;
