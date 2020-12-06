@@ -280,7 +280,7 @@ ul>li {
 
   #vips {
       color: #fc515f;
-      font-size: 30px;
+      font-size: 35px;
   }
   ul {
       font-size: 10px;
@@ -304,7 +304,7 @@ ul>li {
   .size {
       margin: auto;
       display: inline;
-      padding-left: 15px;
+      padding-left: 18px;
   }
   .size p {
       font-size: 12px;
@@ -315,8 +315,8 @@ ul>li {
       font-size: 20px;
   }
   .mission {
-      padding-left: 40px;
-      font-size: 10px;
+      padding-left: 45px;
+      font-size: 15px;
   }
   .cntr {
       font-size: 19px;
