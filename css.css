@@ -9,10 +9,10 @@ h1 {
   animation-fill-mode: both;
   position: relative;
   animation-name: vips;
-  animation-duration: 2s;
+  animation-duration: 2.5s;
   text-align: center;
   color: #fc515f;
-  font-size: 50px;
+  font-size: 55px;
 }
 
 @keyframes vips {
