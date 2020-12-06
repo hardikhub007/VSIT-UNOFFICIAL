@@ -11,7 +11,7 @@ h1 {
   animation-name: vips;
   animation-duration: 2.5s;
   text-align: center;
-  color: #fc515f;
+  color:green;
   font-size: 55px;
 }
 
@@ -125,8 +125,8 @@ a:active {
   color: #f207ac;
   background-color: #ede6e8;
   margin: 3px;
-  padding: 3px;
-  border-radius: 25px;
+  padding: 4px;
+  border-radius: 26px;
 }
 
 #button1:visited {
