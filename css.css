@@ -60,9 +60,6 @@ small {
   width: 200px;
 }
 
-.img1:hover {
-  box-shadow: 0 0 2px 1px #8af70c;
-}
 
 @keyframes example {
   from {
